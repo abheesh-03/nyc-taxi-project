@@ -1,7 +1,6 @@
 pandas==2.0.0
-numpy==1.23.0
-scikit-learn==1.0.0
+numpy==2.2.3
+scikit-learn==1.1.0
 lightgbm==3.3.0
-mlflow==2.0.0
 streamlit==1.0.0
-hopsworks==3.0.0
+matplotlib==3.7.0
