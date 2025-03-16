@@ -9,7 +9,7 @@ mlflow
 notebook
 pandas==2.1.3
 plotly
-pyarrow
+pyarrow==14.0.1
 python-dotenv
 requests
 scikit-learn==1.5.2
